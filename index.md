@@ -5,7 +5,6 @@ landing-title: 'Summer School in Geometric Representation Theory'
 description: null
 image: null
 author: null
-notile: true
 ---
 
 <section id="two">

@@ -14,7 +14,7 @@
 	{% endfor %}
 	{% for page in site.pages limit:site.tiles-count %}
 	{% if site.tiles-source == 'pages' %}
-        {% unless page.notile %}
+        {% if page.tile %}
         <article>
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />
@@ -24,7 +24,7 @@
                         <p>{{ page.description }}</p>
                 </header>
         </article>
-        {% endunless %}
+        {% endif %}
 	{% endif %}
 	{% endfor %}
 </section>

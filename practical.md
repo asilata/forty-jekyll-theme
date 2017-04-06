@@ -3,6 +3,7 @@ layout: page
 title: Practical Information
 image: assets/images/practical.jpg
 description: Travelling to IST, lodging, and local information
+tile: true
 ---
 
 <div id="main" class="alt">

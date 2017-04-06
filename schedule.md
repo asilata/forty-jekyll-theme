@@ -4,6 +4,7 @@ title: Schedule and abstracts
 image: assets/images/schedule.jpg
 description: Conference schedule, titles, and abstracts
 nav-order: 1
+tile: true
 ---
 
 <div id="main" class="alt">
