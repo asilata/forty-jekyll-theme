@@ -1,10 +1,25 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Summer School in Geometric Representation Theory'
 description: null
 image: null
 author: null
+notile: true
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+<section id="two">
+<div class="inner">
+
+<header class="major">
+<h2>What's new</h2>
+</header>
+
+<p>Some new stuff here</p>
+
+<ul class="actions">
+<li><a href="landing.html" class="button next">Get Started</a></li>
+</ul>
+
+</div>
+</section>
