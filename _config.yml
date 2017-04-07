@@ -1,9 +1,9 @@
 # Site settings
-title: Summer School in Geometric Representation Theory
+title: Summer School on Geometric Representation Theory
 short-title: SSGRT
-subtitle: IST Vienna
+subtitle: IST Austria
 #email: youremailaddress@gmail.com
-description: A workshop and conference at IST Vienna
+description: A workshop and conference at the Institute of Science and Technology Austria
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:

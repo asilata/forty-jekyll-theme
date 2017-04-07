@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Summer School in Geometric Representation Theory'
+landing-title: 'Summer School on Geometric Representation Theory'
 description: null
 image: null
 author: null
