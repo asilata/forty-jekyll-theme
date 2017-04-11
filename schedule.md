@@ -16,6 +16,8 @@ tile: true
 <h1> {{ page.title }} </h1>
 </header>
 
+<h2>Schedule</h2>
+
 <table>
   <thead>
     <tr>
@@ -118,6 +120,8 @@ tile: true
     </tr>
   </tbody>
 </table>
+
+<h2>Titles and abstracts</h2>
 
 </div>
 
