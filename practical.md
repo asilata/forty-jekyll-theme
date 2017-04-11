@@ -3,6 +3,7 @@ layout: page
 title: Practical Information
 image: assets/images/practical.jpg
 description: Travelling to IST, lodging, and local information
+nav-order: 2
 tile: true
 ---
 
