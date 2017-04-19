@@ -29,30 +29,20 @@
 	);
 
 // Palette.
-	$palette: (
-	    /* bg:					#242943, */
-            /* bg: #dee0e3,*/
-            bg: #fafbfd,
-	    /* bg-alt:				#2a2f4a, */
-            /* bg-alt: #fafbfd,*/
-            bg-alt: #dee0e3,
-	    /* fg:					#ffffff, */
-            fg: #242943,
-	    /* fg-bold:			#ffffff, */
-            fg-bold: #2a2f4a,
-	    /* fg-light:			rgba(244,244,255,0.2),*/
-            fg-light: #2d3354,
-	    /* border:				rgba(212,212,255,0.1),*/
-            border: rgba(36,41,67,0.1),
-	    /* border-bg:			rgba(212,212,255,0.035),*/
-            border-bg: rgba(36,41,67,0.035),
-	    /* highlight:			#9bf1ff, */
-            /* highlight: #2a5DB0,*/
-            highlight: #4E17A9,
-	    accent1:			#6fc3df,
-	    accent2:			#8d82c4,
-	    accent3:			#ec8d81,
-	    accent4:			#e7b788,
+        $palette: (
+	    bg:					#4056a1,
+	    bg-alt:				#384c8b,
+	    fg:					#ffffff,
+	    fg-bold:			#ffffff,
+	    fg-light:			rgba(244,244,255,0.2),
+	    border:				rgba(212,212,255,0.1),
+	    border-bg:			rgba(212,212,255,0.035),
+	    /* highlight:			#fcc967, */
+            highlight: #d79922,
+            accent1:			#b75b7b,
+	    accent2:			#54d6a8,
+            accent3:                    #9b7acc,
+	    accent4:			#a16c40,
 	    accent5:			#8ea9e8,
 	    accent6:			#87c5a4
 	);
